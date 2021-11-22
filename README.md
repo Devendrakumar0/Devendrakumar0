@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### DEVENDRA KUMAR
+###### CSE
+# ADITYA
+italic * HELLO WORLD *
 <!--
 **Devendrakumar0/Devendrakumar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
